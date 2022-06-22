@@ -4,7 +4,7 @@ pypinyin==0.37.0
 librosa==0.7.2
 setproctitle==1.1.10
 tqdm==4.43.0
-numpy==1.18.1
+numpy==1.22.0
 torch==1.4.0
 inflect==4.1.0
 scipy==1.4.1
